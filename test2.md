@@ -19,3 +19,18 @@ console.log('hi')
 > dfdfdfd<br>dfdfdfdf&nbsp;dfdfdfd
 
 <h1>test</h1>
+
+<p>
+  <code>
+    test<br>
+    &ZeroWidthSpace;
+    test2
+  </code>
+</p>
+<strong>strong</strong>
+<del>del</del>
+
+<blockquote>
+  <p>test1</p>
+  <p>test2</p>
+</blockquote>
